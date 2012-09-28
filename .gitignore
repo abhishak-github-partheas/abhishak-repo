@@ -1,5 +1,6 @@
 # Comment 
 *.txt~
+anything.txt
 *.*~
 *.zip
 log/*.log
