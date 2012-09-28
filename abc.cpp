@@ -7,11 +7,8 @@ int main()
   int a;
   cout<<"enter a\n";
   cin>>a;
-<<<<<<< HEAD
   cout<<"We are on the master branch\n";
-=======
   cout<<"The valure entered by you is= "<<a<<endl;
   cout<<"this is in the new_branch\n";
->>>>>>> seo_title
   return 0;
 }
