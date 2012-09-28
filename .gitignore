@@ -1,1 +1,8 @@
+# Comment 
 *.txt
+*.zip
+log/*.log
+log/*.log.[0-9]
+assests/photoshop/
+assests/videos/
+!assests/videos/tour_*.mp4   #dont ignore.
