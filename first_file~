@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is my first file that i to the project.
 
 now u have made changes in the file. and now i will commit then to the repoisitory.
@@ -5,3 +6,12 @@ now u have made changes in the file. and now i will commit then to the repoisito
 it comes before all files.
 
 put in staging index.
+=======
+this is first file that i added to the project.
+
+now u have made some changes in the file. and now commit then to the repoisitory.
+
+it comes all other files.
+
+to put staging index.
+>>>>>>> text_edits
